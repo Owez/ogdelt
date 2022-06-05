@@ -1,6 +1,6 @@
 # OGDELT
 
-OGDELT is simplified GDELT, complete with bindings and a specification.
+OGDELT is simplified GDELT. This project contains a language-abstract specification, as well as official implementations. 
 
 ## Bindings
 
