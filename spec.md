@@ -4,6 +4,24 @@ subtitle: Simplified GDELT for ease of use
 author: Owen Griffiths
 ---
 
+<!-- This document is intended to be converted with mdx <https://github.com/Owez/mdx> -->
+
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Datatypes](#datatypes)
+  - [CAMEOs](#cameos)
+  - [Integer](#integer)
+  - [Float](#float)
+  - [Date](#date)
+  - [Classification](#classification)
+  - [URL](#url)
+  - [GeoType](#geotype)
+  - [String](#string)
+- [Event](#event)
+- [Mentions](#mentions)
+
 # Introduction
 
 OGDELT is a simplified version of the GDELT 2.0 format made with developers in mind. It aims to contain all of the original raw data but in a more concise and manageable package. This document is the specification for OGDELT.
